@@ -13,9 +13,10 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 | Question 2 | Your answers to the question | 25% |
 | Question 3 | Your answers to the question | 25% |
 
-## Name
+## Name Rafael and Cesar
 
 ## Lab Summary
+This lab focuses on implementing digital logic circuits in Verilog using standard Canonical forms (Maxterms/POS for Circuit A and Minterms/SOP for Circuit B). It then demonstrates hierarchical module design by connecting the output of Circuit A into Circuit B within a top-level module to test on the Basys3 board.
 
 ## Lab Questions
 
